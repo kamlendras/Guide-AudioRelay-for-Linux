@@ -2,8 +2,7 @@
 
 ## When you  have opened AudioRelay, you might have see a error. that's bcos you are missing a font on your system <br />
 ```sudo pacman -S ttf-dejavu-nerd``` <br />
-```sudo pacman -S DejaVuSans``` <br />
-Install one of the above provided font.
+```sudo pacman -S noto-fonts``` <br />
 
 ## After Opening AudioRelay 
 <br />Install ```sudo pacman -S pavucontrol```
