@@ -1,7 +1,7 @@
 # Guide AudioRelay for Linux
 
 ## When you  have opened AudioRelay, you might have see a error. that's bcos you are missing a font on your system 
-""" sudo pacman -S ttf-dejavu-nerd """
+''' sudo pacman -S ttf-dejavu-nerd '''
 """sudo pacman -S DejaVuSans"""
 Install one of the above provided font.
 
