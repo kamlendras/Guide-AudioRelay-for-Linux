@@ -16,7 +16,9 @@
 ### Finally everything should work fine 
 <p align="center">
   <a href="https://raw.githubusercontent.com/kamlendras/Guide-AudioRelay-for-Linux/main/AudioRelay.png"><img src="https://raw.githubusercontent.com/kamlendras/Guide-AudioRelay-for-Linux/main/AudioRelay.png"/></a>
-</p>
+</p><br/>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kamlendras)
 
 
 
