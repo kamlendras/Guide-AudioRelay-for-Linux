@@ -11,6 +11,6 @@ set AudioRelay Speaker to deafult insted of built-in speakers.
 
 Your pavucontrol should match as provided below 
 
-
+<a href="https://raw.githubusercontent.com/kamlendras/Guide-AudioRelay-for-Linux/main/audio_controls.png"><img src="https://raw.githubusercontent.com/kamlendras/Guide-AudioRelay-for-Linux/main/audio_controls.png"/></a>
 
 
